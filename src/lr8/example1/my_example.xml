@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tasks>
+    <task>
+        <name>Сходить в магазин</name>
+        <deadline>17:00, 12.05.2024</deadline>
+    </task>
+    <task>
+        <name>Сделать ДЗ по Java</name>
+        <deadline>23:59, 31.05.2024</deadline>
+    </task>
+</tasks>
